@@ -134,11 +134,11 @@ export default function Home() {
                 <div className="flex flex-col items-center space-y-4">
                   <img
                     src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-                    alt="David Chen"
+                    alt="Piyush Napit"
                     className="h-20 w-20 rounded-full object-cover"
                   />
                   <div className="space-y-2 text-center">
-                    <h3 className="font-bold">David Chen</h3>
+                    <h3 className="font-bold">Piyush Napit</h3>
                     <p className="text-sm text-muted-foreground">
                       "As a gym owner, FitTrack Pro has revolutionized how I manage my business. Member engagement is up, and admin work is down!"
                     </p>

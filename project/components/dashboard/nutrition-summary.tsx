@@ -65,7 +65,6 @@ export function NutritionSummary() {
                   value={(macro.value / macro.target) * 100} 
                   className="h-2"
                   style={{ backgroundColor: `${macro.color}20` }} // 20% opacity of the color
-                  indicatorStyle={{ backgroundColor: macro.color }}  
                 />
               </div>
             ))}
